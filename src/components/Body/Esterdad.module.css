@@ -1,0 +1,34 @@
+.esterdadsection{
+    width: 70rem;
+    height: 15rem;
+    background-color: white;
+    margin: 5rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin-inline: auto;
+}
+.esterdadh1{
+    color: gray;
+    text-align: right;
+    padding: 1rem;
+    padding-right: 2rem;
+    margin-bottom: 0.5rem;
+}
+.esterdaddiv{
+    width: 45rem;
+    float:right;
+}
+.esterdadp{
+    color: gray;
+    text-align: right;
+    float: right;
+    padding-right: 2rem;
+    margin-top: 0;
+}
+.esterdadimg{
+    float: left;
+    width: 18rem;
+    height: 15rem;
+    margin-left: 4rem;
+   
+}

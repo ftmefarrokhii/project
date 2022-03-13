@@ -1,0 +1,47 @@
+.membership-section{
+    width: 22rem;
+    height: 20rem;
+    border-radius: 12px;
+    background-color: rgba(2, 211, 96, 0.877);
+    margin: 1rem;
+}
+.membership-h1{
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+    font-size: large;
+}
+.membership-p{
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+.membership-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.email-input{
+    background-color: rgb(62, 247, 154);
+    border:1px solid white ;
+    border-radius: 15px;
+    width: 14rem;
+    height: 3rem;
+    margin: 1rem;
+}
+.submit-btn{
+    background-color: rgb(19, 80, 42);
+    border: 1px solid rgb(19, 80, 42);
+    color: white;
+    border-radius: 15px;
+    width: 14rem;
+    height: 3rem;
+    font-size:20px;
+}
+::placeholder {
+    text-align: right;
+    padding-right: 1rem;
+    font-size:15px;
+    font-weight: bold;
+}

@@ -1,0 +1,37 @@
+.vipsection{
+    width: 70rem;
+    height: 25rem;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin: 5rem;
+    border-radius: 15px;
+    margin-inline: auto;
+}
+.viph1{
+    color: gray;
+    text-align: right;
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-right: 2rem;
+    margin-bottom: 0.5rem;
+    
+}
+.vipdiv{
+    width: 45rem;
+    float:right;
+    
+}
+.vipp{
+    color: gray;
+    text-align: right;
+    float: right;
+    padding-right: 2rem;
+    
+}
+.vipimg{
+    float: left;
+    width: 18rem;
+    height: 15rem;
+    margin-left: 5rem;
+    margin-top: 4rem;
+}

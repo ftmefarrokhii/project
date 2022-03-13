@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode dir="rtl">
     <App />
   </React.StrictMode>,
   document.getElementById('root')

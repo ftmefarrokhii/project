@@ -1,0 +1,31 @@
+.behtarbeshnasiddiv{
+    border-radius: 15px;
+    background-color: white;
+    width: 70rem;
+    height: 25rem;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin-inline: auto;
+}
+.moarefih2{
+    margin-right: 10rem;
+    color: rgb(73, 73, 73);
+    padding: 2rem;
+}
+.behtarbeshnasidimg{
+    float: right;
+    width: 35rem;
+    height: 20rem;
+    margin: 3rem;
+}
+.behtarbeshnasidp{
+    color:rgb(90, 90, 90);
+}
+.textdiv{
+    width: 25rem;
+    height: 25rem;
+    text-align: right;
+    padding: 2rem;
+    margin-left: 3rem;
+   
+    float: left;
+}

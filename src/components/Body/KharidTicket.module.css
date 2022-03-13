@@ -1,0 +1,34 @@
+.KharidTicketsection{
+    width: 70rem;
+    height: 25rem;
+    background-color: white;
+    margin: 5rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin-inline: auto;
+}
+.KharidTicketh1{
+    color: gray;
+    text-align: right;
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-right: 2rem;
+    margin-bottom: 0.5rem;
+}
+.KharidTicketdiv{
+    width: 50rem;
+    float: right;
+}
+.KharidTicketp{
+    color: gray;
+    text-align: right;
+    float: left;
+    padding-right: 2rem;
+}
+.KharidTicketimg{
+    float: right;
+    width: 15rem;
+    height: 13rem;
+    margin-right: 4rem;
+    margin-top: 6rem;
+}

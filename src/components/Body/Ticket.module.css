@@ -1,0 +1,36 @@
+.ticketsection{
+    width: 70rem;
+    height: 16rem;
+    background-color: white;
+    margin: 5rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin-inline: auto;
+
+}
+.ticketh1{
+    color: gray;
+    text-align: right;
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-right: 2rem;
+    margin-bottom: 0.5rem;
+}
+.ticketdiv{
+    width: 40rem;
+    float: right;
+}
+.ticketp{
+    padding-right: 1rem;
+    color: gray;
+    text-align: right;
+    float: right;
+    padding-right: 2rem;
+}
+.ticketimg{
+    float: left;
+    width: 15rem;
+    height: 13rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}

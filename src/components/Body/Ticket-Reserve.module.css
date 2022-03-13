@@ -1,0 +1,35 @@
+.reservesection{
+    width: 70rem;
+    height: 16rem;
+    background-color: white;
+    margin: 5rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px  #cacaca;
+    margin-inline: auto;
+}
+.reserveh1{
+    color: gray;
+    text-align: right;
+    padding: 1rem;
+    padding-bottom: 0;
+    padding-right: 2rem;
+    
+}
+.reservediv{
+    width: 50rem;
+    float: right;
+}
+.reservep{
+    
+    color: gray;
+    text-align: right;
+    float: left;
+    padding-right: 2rem;
+}
+.reserveimg{
+    float: right;
+    width: 15rem;
+    height: 13rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+}
