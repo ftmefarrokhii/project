@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import classes from './Footer.module.css';
 import { Fragment } from 'react';
 import logoImage from '../../images/logo.png';
@@ -71,12 +70,7 @@ const Footer = ()=>{
         </section>
         <FooterDown/>
     </Fragment>
-    
-        
-
     );
-
-
 };
 
 export default Footer;

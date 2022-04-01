@@ -22,3 +22,25 @@
     display: flex;
     width: 70rem;
 }
+@media (max-width:567px) {
+    .main-section{
+        display:block;
+        align-items: center;
+        width: auto;
+        margin-inline: auto;
+        background-color: aquamarine;
+    }
+    .main-div-h3{
+        font-size: small;
+    }
+    .main-div-p{
+        font-size: small;
+    }
+    .main-div{
+        width: 20rem;
+        height: 5rem;
+        align-items: center;
+        background-color: cadetblue;
+    }
+    
+}

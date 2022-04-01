@@ -5,12 +5,17 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {Provider} from 'react-redux';
+import store from './store/index'
+
 
 
 ReactDOM.render(
+  <Provider store={store}>
   <React.StrictMode dir="rtl">
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>
+  </Provider>,
   document.getElementById('root')
 );
 

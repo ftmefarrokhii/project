@@ -1,4 +1,12 @@
-
+.css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(17, 196, 106) !important;
+    height: 8px!important;
+    border-radius: 2px!important;
+}
+.css-eglki6-MuiLinearProgress-root{
+    height: 8px!important;
+    border-radius: 2px!important;
+}
 
 .testclass{
     background-color: red !important;
@@ -7,6 +15,26 @@
 .testzz .ant-select-selector{
     background-color: rgb(240, 240, 240) !important;
     width: 10rem;
-    border-radius: 5px ;
+    border-radius: 5px;
     color: black ;
+}
+.ant-modal-content{
+    border-radius: 10px;
+    /* width: 50rem;
+    height: 20rem; */
+}
+.ant-modal-footer{
+    display: none;
+}
+.ant-modal-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ant-modal-close-x{
+    color: rgb(17, 196, 106);
+}
+.ant-modal-title{
+    text-align: center;
 }

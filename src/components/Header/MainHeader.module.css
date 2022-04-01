@@ -30,3 +30,18 @@
     margin: 1rem;
     width: 10rem;
 }
+@media (max-width:576px) {
+    .div{
+        width:20rem;
+        margin-inline: auto;
+        margin-top: auto;
+        height: 25rem;
+    }
+    .datepicker{
+        margin-right: 2rem;
+    }
+    .searchbutton{
+        margin-right: 2rem;
+    }
+}
+
